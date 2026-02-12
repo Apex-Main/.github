@@ -4,12 +4,13 @@
 
 ### Salesforce Consulting, Implementation & Optimisation Partner
 
-Helping businesses transform their Salesforce systems into powerful, efficient engines that align with real-world workflows and growth goals. :contentReference[oaicite:1]{index=1}
+Helping businesses transform Salesforce into powerful, efficient systems aligned with real-world workflows and growth goals.
 
 <br/>
 
-![GitHub Org Profile](https://img.shields.io/badge/Status-Active-success)
-![Salesforce Partner](https://img.shields.io/badge/Expertise-Salesforce%20Consulting-blue)
+![Status](https://img.shields.io/badge/Status-Active-success)
+![Expertise](https://img.shields.io/badge/Expertise-Salesforce-blue)
+![Location](https://img.shields.io/badge/Location-United%20Kingdom-lightgrey)
 
 </div>
 
@@ -17,47 +18,53 @@ Helping businesses transform their Salesforce systems into powerful, efficient e
 
 ## 🚀 Our Mission
 
-Apex Infinity Solutions exists to make Salesforce work the way your business needs it to. We combine deep technical expertise with practical user experience to deliver solutions that improve processes, empower teams, and enhance data-driven outcomes. :contentReference[oaicite:2]{index=2}
+Apex Infinity Solutions exists to make Salesforce work the way your business needs it to.  
+We combine deep technical expertise with practical user-focused design to deliver solutions that improve processes, empower teams, and enhance data-driven outcomes.
 
 ---
 
 ## 📌 What We Do
 
-We support organisations of all sizes with tailored Salesforce services including:
+We support organisations of all sizes with tailored Salesforce services:
 
-- **Custom implementation & development** — Build solutions that match your business model. :contentReference[oaicite:3]{index=3}  
-- **System health & fix services** — Identify issues and restore confidence in your Salesforce platform. :contentReference[oaicite:4]{index=4}  
-- **Ongoing support & optimisation** — Expert guidance, maintenance and enhancements. :contentReference[oaicite:5]{index=5}  
-- **Integration services** — Seamless connections between Salesforce and other systems. :contentReference[oaicite:6]{index=6}
+- **Custom Implementation & Development**  
+  Build scalable Salesforce solutions aligned to your business model.
+
+- **System Health & Fix Services**  
+  Identify issues, resolve inefficiencies, and restore platform confidence.
+
+- **Ongoing Support & Optimisation**  
+  Continuous improvement, enhancements, and strategic guidance.
+
+- **System Integrations**  
+  Seamless integration between Salesforce and third-party platforms.
 
 ---
 
 ## ⭐ Our Story
 
-We didn’t begin as consultants — we were users frustrated with Salesforce setups that didn’t fit how we worked. Solving those real-world challenges led to a passion for making Salesforce systems truly valuable for businesses like yours. :contentReference[oaicite:7]{index=7}
+We began as Salesforce users frustrated by systems that didn’t reflect real business processes.  
+Solving those challenges evolved into a mission: making Salesforce practical, efficient, and genuinely valuable for growing organisations.
 
 ---
 
 ## 📊 Impact & Reach
 
-- UK-based team with deep industry experience. :contentReference[oaicite:8]{index=8}  
-- Hundreds of systems improved and optimised. :contentReference[oaicite:9]{index=9}  
-- Practical solutions driven by real business needs. :contentReference[oaicite:10]{index=10}
+- UK-based Salesforce specialists  
+- Experience across multiple industries  
+- Solutions driven by measurable business outcomes  
 
 ---
 
-## 📫 Contact Us
+## 📫 Contact
 
-Apex Infinity Solutions — Salesforce expertise that delivers clarity, efficiency and real results. :contentReference[oaicite:11]{index=11}
+**Apex Infinity Solutions**
 
-**Email:** info@apexinfinitysolutions.com  
-**Phone:** 0800 861 1137  
-**Address:** The Oast, Office F12, Woodfalls Farm, Gravelly Ways, Laddingford, Maidstone, ME18 6DA, UK :contentReference[oaicite:12]{index=12}
+📧 info@apexinfinitysolutions.com  
+📞 0800 861 1137  
+📍 The Oast, Office F12, Woodfalls Farm, Gravelly Ways, Laddingford, Maidstone, ME18 6DA, UK  
+
+🌐 https://apexinfinitysolutions.com/
 
 ---
-
-## 📌 Connect & Learn More
-
-Visit our website for full service details and case studies:  
-👉 https://apexinfinitysolutions.com/ :contentReference[oaicite:13]{index=13}
 
