@@ -62,7 +62,7 @@ Solving those challenges evolved into a mission: making Salesforce practical, ef
 
 📧 info@apexinfinitysolutions.com  
 📞 0800 861 1137  
-📍 The Oast, Office F12, Woodfalls Farm, Gravelly Ways, Laddingford, Maidstone, ME18 6DA, UK  
+📍 The Oast, Office G1&2, Woodfalls Farm, Gravelly Ways, Laddingford, Maidstone, ME18 6DA, UK  
 
 🌐 https://apexinfinitysolutions.com/
 
