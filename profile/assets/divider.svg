@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="6" viewBox="0 0 1200 6" role="presentation">
+<defs><linearGradient id="d" x1="0" x2="2400" gradientUnits="userSpaceOnUse" spreadMethod="repeat">
+<stop offset="0" stop-color="#0b95e6" stop-opacity="0"/><stop offset="0.15" stop-color="#0b95e6"/><stop offset="0.3" stop-color="#886bda"/><stop offset="0.45" stop-color="#ec4fa0"/><stop offset="0.6" stop-color="#ec4fa0" stop-opacity="0"/><stop offset="1" stop-color="#0b95e6" stop-opacity="0"/>
+<animateTransform attributeName="gradientTransform" type="translate" from="-2400 0" to="0 0" dur="6s" repeatCount="indefinite"/></linearGradient>
+<linearGradient id="fade" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset="0.1" stop-color="#fff"/><stop offset="0.9" stop-color="#fff"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<mask id="m"><rect width="1200" height="6" fill="url(#fade)"/></mask></defs>
+<rect y="1" width="1200" height="4" rx="2" fill="#886bda" opacity="0.25" mask="url(#m)"/>
+<rect y="1" width="1200" height="4" rx="2" fill="url(#d)" mask="url(#m)"/>
+</svg>
